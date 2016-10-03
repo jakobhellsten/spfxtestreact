@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-react-client-side-solution",
+    "id": "aeb0a641-90e7-4888-91cf-edcd56a9e152",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-react.spapp"
+  }
+}

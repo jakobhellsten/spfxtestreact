@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "910cfd32-0671-4238-98a2-9154db4dbff0",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "910cfd32-0671-4238-98a2-9154db4dbff0",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloReact" },
+    "description": { "default": "HelloReact" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloReact"
+    }
+  }]
+}
